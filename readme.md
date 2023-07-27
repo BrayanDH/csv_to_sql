@@ -1,4 +1,5 @@
-# Este repositorio contiene un ejemplo practico de como convertir un archivo csv a una base de datos SQL.
+# CSV to SQL
+Este repositorio contiene un ejemplo practico de como convertir un archivo csv a una base de datos SQL.
 
 ## Requisitos
 
