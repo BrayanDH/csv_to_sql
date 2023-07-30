@@ -1,31 +1,36 @@
 # CSV to SQL
-Este repositorio contiene un ejemplo practico de como convertir un archivo csv a una base de datos SQL.
 
-## Requisitos
+This repository provides a practical example of how to convert a CSV file into an SQL database.
+
+## Requirements
 
 - Python 3.7
 - Pandas
 - SQL Alchemy
 
-## Instalación
+## Installation
 
-1. Clonar el repositorio
-2. Crear un entorno virtual
-3. Instalar las dependencias
-4. Ejecutar el archivo main.ipynb
+1. Clone the repository
+2. Create a virtual environment
+3. Install the dependencies
+4. Run the `main.ipynb` file
 
-## Uso
+## Usage
 
-1. Crear un archivo csv con los datos que se desean cargar a la base de datos en el archivo .env
-2. Modificar el archivo main.ipynb con el nombre de la BD y la tabla que se desean crear
-3. Ejecutar el archivo main.ipynb
+1. Create a CSV file with the data you want to load into the database and specify its name in the `.env` file.
+2. Modify the `main.ipynb` file with the desired database and table names.
+3. Run the `main.ipynb` file.
 
-## Contribución
+## Contribution
 
-1. Hacer un fork del repositorio
-2. Crear una rama con el nombre de la nueva funcionalidad
-3. Hacer los cambios
-4. Hacer un pull request
+1. Fork the repository
+2. Create a branch with the name of the new feature
+3. Make the changes
+4. Submit a pull request
+
+## License
+
+Distributed under the MIT License. See `LICENSE` for more information.
 
 ## Licencia
 
